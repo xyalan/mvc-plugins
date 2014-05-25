@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/hibernate3/hibernate3-plugin.iml" filepath="$PROJECT_DIR$/plugins/hibernate3/hibernate3-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc-plugins.iml" filepath="$PROJECT_DIR$/mvc-plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/plugins.iml" filepath="$PROJECT_DIR$/plugins/plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/spring-thrift/spring-thrift.iml" filepath="$PROJECT_DIR$/plugins/spring-thrift/spring-thrift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/spring3/spring3-plugin.iml" filepath="$PROJECT_DIR$/plugins/spring3/spring3-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/struts2/struts2-plugin.iml" filepath="$PROJECT_DIR$/plugins/struts2/struts2-plugin.iml" />
+    </modules>
+  </component>
+</project>
+
