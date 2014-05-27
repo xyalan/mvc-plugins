@@ -19,11 +19,13 @@ import org.apache.commons.lang3.StringUtils;
 public class StringHashMap extends HashMap<String, String> {
 
     public StringHashMap() {
-        super();
+
+		super();
     }
 
     public StringHashMap(Map<? extends String, ? extends String> m) {
-        super(m);
+
+		super(m);
     }
 
     public String put(String key, Object value) {
